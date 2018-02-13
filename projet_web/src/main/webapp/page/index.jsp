@@ -42,7 +42,7 @@
                         
                     </button>
                  
-                <a class="navbar-brand" href="index.html"></a>
+                <a class="navbar-brand" href="#"></a>
                 </div>
                 <div class="collapse navbar-collapse">                
                     
@@ -71,7 +71,7 @@
                             <div class="portfolio-image">
                                 <img src="../images/rabat.jpg" alt="" width="370" height="250">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="../images/rabat.jpg"><i class="icon-eye-open"></i></a>             
+                                    <a class="preview btn btn-danger" title="" href="../images/rabat.jpg"><i class="icon-eye-open"></i></a>             
                                 </div>
                             </div>
                             <h5>Rabat</h5>
@@ -83,7 +83,7 @@
                             <div class="portfolio-image">
                                 <img src="../images/casa.jpg" alt="" width="370" height="250">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="../images/casa.jpg"><i class="icon-eye-open"></i></a>             
+                                    <a class="preview btn btn-danger" title="" href="../images/casa.jpg"><i class="icon-eye-open"></i></a>             
                                 </div>
                             </div>
                             <h5>Casablanca</h5>
@@ -96,7 +96,7 @@
                             <div class="portfolio-image">
                                 <img src="../images/fes.jpg" alt="" width="370" height="250">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="../images/fes.jpg"><i class="icon-eye-open"></i></a>             
+                                    <a class="preview btn btn-danger" title="" href="../images/fes.jpg"><i class="icon-eye-open"></i></a>             
                                 </div>
                             </div>
                             <h5>Fés</h5>
@@ -108,7 +108,7 @@
                             <div class="portfolio-image">
                                 <img src="../images/tetouan.jpg" alt="" width="370" height="250">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="../images/tetouan.jpg"><i class="icon-eye-open"></i></a>             
+                                    <a class="preview btn btn-danger" title="" href="../images/tetouan.jpg"><i class="icon-eye-open"></i></a>             
                                 </div>
                             </div>
                             <h5>Tétouan</h5>
